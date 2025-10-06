@@ -24,3 +24,5 @@ chmod +x server-stats.sh
 ./server-stats.sh
 
 project url : https://roadmap.sh/projects/server-stats
+
+<img width="1257" height="536" alt="image" src="https://github.com/user-attachments/assets/e86f6375-ce96-4909-944d-a5756ea4be90" />
